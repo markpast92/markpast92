@@ -1,16 +1,26 @@
 ## Hi there 👋
 
+## Technical Skills & Expertise 💻
+
+### Machine Learning & Artificial Intelligence 🧠
+* Implementation of machine learning algorithms
+* Deep learning model development and optimization
+* Expertise in predictive analytics and data-driven solutions
+
+### Data Science Techniques 📊
+* Statistical modeling and data analysis
+* Feature engineering and model performance evaluation
+
+### Programming & Tools 💾
+* Python, data science libraries (Pandas, NumPy, Scikit-learn)
+* Deep learning frameworks (TensorFlow, PyTorch)
+* Data visualization and exploratory data analysis
+
+### Technical Specializations 🚀
+* Predictive modeling
+* Machine learning pipeline design
+
+
 <!--
 **markpast92/markpast92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
