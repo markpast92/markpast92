@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a machine learning engineer and data scientist focused on developing intelligent solutions through advanced AI technologies. 
+My work centers on transforming complex data challenges into pragmatic, scalable models that drive technological innovation. 
+With a methodical approach to problem-solving, I leverage machine learning techniques to create meaningful insights and practical applications.
 
 ## Technical Skills & Expertise 💻
 
